@@ -1,14 +1,14 @@
 //
-//  Fruit.h
-//  FruitInheritance
+//  Vegetable.h
+//  FruitCart
 //
-//  Created by David Evans on 1/24/13.
+//  Created by Zack on 2/6/13.
 //  Copyright (c) 2013 DavidEvans. All rights reserved.
 //
 
 #import <Foundation/Foundation.h>
 
-@interface Fruit : NSObject
+@interface Vegetable : NSObject
 
 @property (nonatomic, strong) NSString * name;
 @property (nonatomic, strong) NSString * shape;
